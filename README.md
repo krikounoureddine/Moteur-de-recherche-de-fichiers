@@ -16,14 +16,19 @@ Ce projet consiste en le développement d'un moteur de recherche de fichiers per
 - **Nuages de mots** : Visualisation des termes dominants dans les fichiers à l'aide de nuages de mots.
   
 ![Interface Administrateur](images/admin_interface.PNG)
+**Interface Administrateur**
 
 ![Interface utilisateur](images/user_interface.PNG)
+**Interface Utilisateur**
 
 ![Les résultats](images/search_results.PNG)
+**Les Résultats de Recherche**
 
 ![Nuage de mots](images/word_cloud.PNG)
+**Nuage de Mots**
 
 ![Base de données](images/database_schema.PNG)
+**Base de Données**
 
 ## Stack technologique
 
