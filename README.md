@@ -1,10 +1,10 @@
 # Moteur de recherche de fichiers
 
-## Description
+## 📌 Description
 
 Ce projet consiste en le développement d'un moteur de recherche de fichiers permettant aux utilisateurs de rechercher des fichiers stockés dans une base de données en utilisant plusieurs critères (nom, mots-clés). L'application propose une interface utilisateur intuitive et une gestion efficace des requêtes pour offrir une expérience de recherche optimisée.
-
-## Fonctionnalités principales
+![Aperçu du projet](images/apercu_projet.png)
+##  🎯 Fonctionnalités principales
 
 - **Système d'indexation et de recherche avancée** : Basé sur Java EE (Servlet, JSP) et MySQL.
 - **Interface utilisateur interactive** : Développée en HTML, CSS et JavaScript.
@@ -12,7 +12,11 @@ Ce projet consiste en le développement d'un moteur de recherche de fichiers per
 - **Optimisation des performances** : Mise en cache des résultats fréquemment demandés pour améliorer la réactivité.
 - **Classement intelligent des résultats** : Les fichiers sont triés en fonction du nombre de répétitions des mots-clés recherchés.
 - **Nuages de mots** : Visualisation des termes dominants dans les fichiers à l'aide de nuages de mots.
-
+![Interface Administrateur](images/admin_interface.png)
+![Interface utilisateur](images/user_interface.png)
+![Les résultats](images/search_results.png)
+![Nuage de mots](images/word_cloud.png)
+![Base de données](images/database_schema.png)
 ## Stack technologique
 
 - **Backend** : Java EE (Servlet, JSP), MySQL
