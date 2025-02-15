@@ -1,5 +1,3 @@
-# Moteur de recherche de fichiers
-
 ## 📌 Description
 
 Ce projet consiste en le développement d'un moteur de recherche de fichiers permettant aux utilisateurs de rechercher des fichiers stockés dans une base de données en utilisant plusieurs critères (nom, mots-clés). L'application propose une interface utilisateur intuitive et une gestion efficace des requêtes pour offrir une expérience de recherche optimisée.
