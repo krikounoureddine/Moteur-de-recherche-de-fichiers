@@ -21,22 +21,37 @@ Ce projet consiste en le développement d'un moteur de recherche de fichiers per
 
 ###  Interface Administrateur 
 
-| In1 | In2 | In3 |
-|---------|----------------------|----------------------|
-<img src="images/admin_interface.PNG" width="200"> | <img src="images/" width="150"> | <img src="images/" width="150">
+![Interface utilisateur](images/admin_interface.PNG)
 
-**Interface Utilisateur**
-![Interface utilisateur](images/user_interface.PNG)
+![Interface utilisateur](images/admin_interface2.PNG)
 
-**Les Résultats de Recherche**
+### Interface Utilisateur
+
+![Interface utilisateur](images/user_interface2.PNG)
+
+### Les Résultats de Recherche
+
 ![Les résultats](images/search_results.PNG)
 
-**Nuage de Mots**
+![Les résultats](images/search_results2.PNG)
+
+### Details Results
+
+![Les résultats](images/details_results.PNG)
+
+### Nuage de Mots
+
 ![Nuage de mots](images/word_cloud.PNG)
 
-**Base de Données**
+![Nuage de mots](images/word_cloud2.PNG)
+
+### Base de Données
+
 ![Base de données](images/database_schema.PNG)
 
+![Base de données](images/database_schema_2.PNG)
+
+![Base de données](images/database_schema_3.PNG)
 
 ## Stack technologique
 
