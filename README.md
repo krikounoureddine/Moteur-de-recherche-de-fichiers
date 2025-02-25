@@ -2,7 +2,9 @@
 
 Ce projet consiste en le développement d'un moteur de recherche de fichiers permettant aux utilisateurs de rechercher des fichiers stockés dans une base de données en utilisant plusieurs critères (nom, mots-clés). L'application propose une interface utilisateur intuitive et une gestion efficace des requêtes pour offrir une expérience de recherche optimisée.
 
-![Aperçu du projet](images/apercu_projet.PNG)
+![Aperçu du projet](images/user_interface.PNG)
+
+---
 
 ##  🎯 Fonctionnalités principales
 
@@ -13,20 +15,28 @@ Ce projet consiste en le développement d'un moteur de recherche de fichiers per
 - **Classement intelligent des résultats** : Les fichiers sont triés en fonction du nombre de répétitions des mots-clés recherchés.
 - **Nuages de mots** : Visualisation des termes dominants dans les fichiers à l'aide de nuages de mots.
   
-![Interface Administrateur](images/admin_interface.PNG)
-**Interface Administrateur**
+---
 
-![Interface utilisateur](images/user_interface.PNG)
+## 📲 Captures d'Écran
+
+###  Interface Administrateur 
+
+| In1 | In2 | In3 |
+|---------|----------------------|----------------------|
+<img src="images/admin_interface.PNG" width="200"> | <img src="images/" width="150"> | <img src="images/" width="150">
+
 **Interface Utilisateur**
+![Interface utilisateur](images/user_interface.PNG)
 
-![Les résultats](images/search_results.PNG)
 **Les Résultats de Recherche**
+![Les résultats](images/search_results.PNG)
 
-![Nuage de mots](images/word_cloud.PNG)
 **Nuage de Mots**
+![Nuage de mots](images/word_cloud.PNG)
 
-![Base de données](images/database_schema.PNG)
 **Base de Données**
+![Base de données](images/database_schema.PNG)
+
 
 ## Stack technologique
 
