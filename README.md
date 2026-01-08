@@ -115,8 +115,7 @@ Ce projet consiste en le développement d'un **moteur de recherche de fichiers**
 ## 📱 Aperçu & Démonstration
 
 <div align="center" style="margin: 3rem 0;">
-
-### 🎯 **Interface Utilisateur Principale**
+🎯 Interface Utilisateur Principale
 
 <div style="
     max-width: 900px;
@@ -247,6 +246,7 @@ Ce projet consiste en le développement d'un **moteur de recherche de fichiers**
 ## 🏗️ Stack Technologique
 
 ### 🔧 **Backend & Serveur**
+
 | Technologie | Rôle dans le Projet |
 |-------------|---------------------|
 | **Java EE** | Plateforme complète pour le développement d'applications d'entreprise. |
@@ -257,6 +257,7 @@ Ce projet consiste en le développement d'un **moteur de recherche de fichiers**
 | **Apache Tomcat** | Serveur d'applications web/serveur Servlet pour le déploiement. |
 
 ### 🎨 **Frontend & Interface**
+
 | Technologie | Rôle dans le Projet |
 |-------------|---------------------|
 | **HTML5** | Structure sémantique des pages web. |
@@ -265,6 +266,7 @@ Ce projet consiste en le développement d'un **moteur de recherche de fichiers**
 | **JSTL (JSP Standard Tag Library)** | Simplification de l'écriture du code JSP pour l'affichage des données. |
 
 ### 🧰 **Architecture & Méthodologie**
+
 | Concept | Application dans le Projet |
 |---------|----------------------------|
 | **Architecture MVC** | Séparation stricte entre la logique métier (Modèle), l'interface (Vue) et le contrôleur (Servlet). |
@@ -398,18 +400,17 @@ Ce projet est distribué sous la licence **MIT**, une licence open-source permis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Noureddine_Krikou-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noureddine-krikou)
 
 📧 **Une question technique, un retour ou une opportunité ?**
+
 [![Email](https://img.shields.io/badge/Email-Me_contacter-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:contact@krikou.dev)
 
 ---
 
-<div align="center" style="margin-top: 3rem; padding: 2rem; background: linear-gradient(to right, #f0f9ff, #e0f2fe); border-radius: 16px; border: 2px solid #bae6fd;">
-
-## 🔍📂 Moteur de Recherche de Fichiers • Performance et Intelligence dans la Recherche d'Information.
+### 🔍📂 Moteur de Recherche de Fichiers • Performance et Intelligence dans la Recherche d'Information.
 
 [![Code Source](https://img.shields.io/badge/📁_Accéder_au_Code_Source_Complet-0369a1?style=for-the-badge)](https://github.com/krikounoureddine/Moteur-de-recherche-de-fichiers)
+
 [![Java EE](https://img.shields.io/badge/☕_Powered_by_Java_EE-007396?style=for-the-badge&logo=java)](https://www.oracle.com/java/technologies/java-ee-glance.html)
 
-</div>
 
 ------------------------------
 
